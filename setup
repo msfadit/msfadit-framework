@@ -1,0 +1,1 @@
+cp adit.sh ~/../usr/bin/adit && chmod +x ~/../usr/bin/adit && adit install
